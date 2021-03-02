@@ -10,6 +10,8 @@ Go言語の学習用リポジトリです。
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+<br>
+
 # learning-golang
 Go言語の学習用プロジェクトです。
 <br>
