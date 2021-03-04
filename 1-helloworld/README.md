@@ -19,8 +19,25 @@ go run main.go
 <br>
 
 ## 学んだこと
-### 
+### とりあえずHello world
 ```go
+package main
+
+/* 
+  importは以下のようにまとめて行います。
+ */
+import (
+  "fmt"
+  "time"
+)
+
+/* 
+  メイン関数です
+ */
+func main() {
+  fmt.Println("hello")
+  fmt.Println(time.Now())
+}
 ```
 
 <br>
